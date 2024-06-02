@@ -2,6 +2,10 @@
 
 This project implements a simple blockchain with a TUI made using ncurses. Heavily inspired by [this](https://github.com/benWindsorCode/rustBlockchain) simple blockchain implementation in Rust.
 
+![Menu](./assets/menu.jpg)
+
+[Menu](#menu) | [How to Run](#how-to-run) | [Project Structure](#project-structure)
+
 ## Menu
 
 - **New Transaction:** Create a new transaction between wallets.
@@ -57,7 +61,7 @@ cmake --build .
 Run the executable:
 
 ```bash
-    ./simple-blockchain
+./simple-blockchain
 ```
 
 ### Project Structure
