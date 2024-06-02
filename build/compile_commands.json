@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/brunozalc/edu/blockchain/simple-blockchain/build",
+  "command": "/usr/sbin/g++  -I/home/brunozalc/edu/blockchain/simple-blockchain/include -g -std=gnu++17 -o CMakeFiles/simple-blockchain.dir/main.cpp.o -c /home/brunozalc/edu/blockchain/simple-blockchain/main.cpp",
+  "file": "/home/brunozalc/edu/blockchain/simple-blockchain/main.cpp",
+  "output": "CMakeFiles/simple-blockchain.dir/main.cpp.o"
+},
+{
+  "directory": "/home/brunozalc/edu/blockchain/simple-blockchain/build",
+  "command": "/usr/sbin/g++  -I/home/brunozalc/edu/blockchain/simple-blockchain/include -g -std=gnu++17 -o CMakeFiles/simple-blockchain.dir/src/Blockchain.cpp.o -c /home/brunozalc/edu/blockchain/simple-blockchain/src/Blockchain.cpp",
+  "file": "/home/brunozalc/edu/blockchain/simple-blockchain/src/Blockchain.cpp",
+  "output": "CMakeFiles/simple-blockchain.dir/src/Blockchain.cpp.o"
+},
+{
+  "directory": "/home/brunozalc/edu/blockchain/simple-blockchain/build",
+  "command": "/usr/sbin/g++  -I/home/brunozalc/edu/blockchain/simple-blockchain/include -g -std=gnu++17 -o CMakeFiles/simple-blockchain.dir/src/Block.cpp.o -c /home/brunozalc/edu/blockchain/simple-blockchain/src/Block.cpp",
+  "file": "/home/brunozalc/edu/blockchain/simple-blockchain/src/Block.cpp",
+  "output": "CMakeFiles/simple-blockchain.dir/src/Block.cpp.o"
+},
+{
+  "directory": "/home/brunozalc/edu/blockchain/simple-blockchain/build",
+  "command": "/usr/sbin/g++  -I/home/brunozalc/edu/blockchain/simple-blockchain/include -g -std=gnu++17 -o CMakeFiles/simple-blockchain.dir/src/Transaction.cpp.o -c /home/brunozalc/edu/blockchain/simple-blockchain/src/Transaction.cpp",
+  "file": "/home/brunozalc/edu/blockchain/simple-blockchain/src/Transaction.cpp",
+  "output": "CMakeFiles/simple-blockchain.dir/src/Transaction.cpp.o"
+}
+]
