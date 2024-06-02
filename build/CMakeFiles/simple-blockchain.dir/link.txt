@@ -1,1 +1,0 @@
-/usr/sbin/g++ -g "CMakeFiles/simple-blockchain.dir/main.cpp.o" "CMakeFiles/simple-blockchain.dir/src/Blockchain.cpp.o" "CMakeFiles/simple-blockchain.dir/src/Block.cpp.o" "CMakeFiles/simple-blockchain.dir/src/Transaction.cpp.o" -o simple-blockchain  -lcurses -lform /usr/lib/libssl.so /usr/lib/libcrypto.so
