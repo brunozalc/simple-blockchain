@@ -1,3 +1,0 @@
-/home/brunozalc/edu/blockchain/simple-blockchain/build/CMakeFiles/simple-blockchain.dir
-/home/brunozalc/edu/blockchain/simple-blockchain/build/CMakeFiles/edit_cache.dir
-/home/brunozalc/edu/blockchain/simple-blockchain/build/CMakeFiles/rebuild_cache.dir
