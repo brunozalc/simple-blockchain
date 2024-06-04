@@ -11,14 +11,14 @@ private:
     std::time_t timestamp;
     std::vector<Transaction> transactions;
     uint64_t proof;
-    std::string previousHash;
+    std::string previous_hash;
 
 public:
-    Block(size_t index, const std::time_t &timestamp, const std::vector<Transaction> &transactions, uint64_t proof, const std::string &previousHash);
+    Block(size_t index, const std::time_t &timestamp, const std::vector<Transaction> &transactions, uint64_t proof, const std::string &previous_hash);
 
-    size_t getIndex() const;
-    std::time_t getTimestamp() const;
-    const std::vector<Transaction> &getTransactions() const;
-    uint64_t getProof() const;
-    std::string getPreviousHash() const;
+    size_t get_index() const;
+    std::time_t get_timestamp() const;
+    const std::vector<Transaction> &get_transactions() const;
+    uint64_t get_proof() const;
+    std::string get_previous_hash() const;
 };
